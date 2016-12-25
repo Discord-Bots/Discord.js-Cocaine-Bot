@@ -49,4 +49,4 @@ cocainebot.on('message', message => {
   }
 });
 
-cocainebot.login('MjYyMzAwMjAxNTUxNzkwMDgy.C0BiDA.3jjIowJJzz_Q_G75OzM6EqhSTWM');
+cocainebot.login('token');
