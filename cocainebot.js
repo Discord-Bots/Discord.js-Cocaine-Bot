@@ -36,6 +36,7 @@ cocainebot.on('message', message => {
 	message.channel.sendMessage('Developer/Creator: <@149068295381843968>');
 	message.channel.sendMessage('Helper: <@151130750639538178>');
 	message.channel.sendMessage('Remember this is credits on who made all of GlassShards bots!');
+	message.channel.sendMessage('If you are to use this bot and carry on from it, please give me and MLGSeller our credits.');
 
 	}
 
